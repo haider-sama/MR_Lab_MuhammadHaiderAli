@@ -1,0 +1,33 @@
+[1.064s] Invoking command in '/media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/ros2_ws/src/my_first_pkg': PYTHONPATH=/media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/ros2_ws/build/my_first_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_first_pkg build --build-base /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/ros2_ws/build/my_first_pkg/build install --record /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/ros2_ws/build/my_first_pkg/install.log --single-version-externally-managed install_data
+[1.210s] running egg_info
+[1.212s] creating ../../build/my_first_pkg/my_first_pkg.egg-info
+[1.212s] writing ../../build/my_first_pkg/my_first_pkg.egg-info/PKG-INFO
+[1.212s] writing dependency_links to ../../build/my_first_pkg/my_first_pkg.egg-info/dependency_links.txt
+[1.213s] writing entry points to ../../build/my_first_pkg/my_first_pkg.egg-info/entry_points.txt
+[1.213s] writing requirements to ../../build/my_first_pkg/my_first_pkg.egg-info/requires.txt
+[1.213s] writing top-level names to ../../build/my_first_pkg/my_first_pkg.egg-info/top_level.txt
+[1.214s] writing manifest file '../../build/my_first_pkg/my_first_pkg.egg-info/SOURCES.txt'
+[1.216s] reading manifest file '../../build/my_first_pkg/my_first_pkg.egg-info/SOURCES.txt'
+[1.217s] writing manifest file '../../build/my_first_pkg/my_first_pkg.egg-info/SOURCES.txt'
+[1.217s] running build
+[1.217s] running build_py
+[1.217s] creating /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/ros2_ws/build/my_first_pkg/build
+[1.217s] creating /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/ros2_ws/build/my_first_pkg/build/lib
+[1.217s] creating /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/ros2_ws/build/my_first_pkg/build/lib/my_first_pkg
+[1.218s] copying my_first_pkg/__init__.py -> /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/ros2_ws/build/my_first_pkg/build/lib/my_first_pkg
+[1.218s] running install
+[1.218s] running install_lib
+[1.219s] creating /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg
+[1.219s] copying /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/ros2_ws/build/my_first_pkg/build/lib/my_first_pkg/__init__.py -> /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg
+[1.220s] byte-compiling /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg/__init__.py to __init__.cpython-310.pyc
+[1.220s] running install_data
+[1.220s] creating /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/ros2_ws/install/my_first_pkg/share/ament_index
+[1.220s] creating /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/ros2_ws/install/my_first_pkg/share/ament_index/resource_index
+[1.220s] creating /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/ros2_ws/install/my_first_pkg/share/ament_index/resource_index/packages
+[1.220s] copying resource/my_first_pkg -> /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/ros2_ws/install/my_first_pkg/share/ament_index/resource_index/packages
+[1.221s] copying package.xml -> /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/ros2_ws/install/my_first_pkg/share/my_first_pkg
+[1.221s] running install_egg_info
+[1.223s] Copying ../../build/my_first_pkg/my_first_pkg.egg-info to /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg-0.0.0-py3.10.egg-info
+[1.225s] running install_scripts
+[1.251s] writing list of installed files to '/media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/ros2_ws/build/my_first_pkg/install.log'
+[1.292s] Invoked command in '/media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/ros2_ws/src/my_first_pkg' returned '0': PYTHONPATH=/media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/ros2_ws/build/my_first_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_first_pkg build --build-base /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/ros2_ws/build/my_first_pkg/build install --record /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/ros2_ws/build/my_first_pkg/install.log --single-version-externally-managed install_data
