@@ -1,0 +1,3 @@
+[console_scripts]
+follower = my_launch_pkg.follower:main
+

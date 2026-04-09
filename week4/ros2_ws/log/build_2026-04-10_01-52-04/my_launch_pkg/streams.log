@@ -1,0 +1,25 @@
+[0.774s] Invoking command in '/media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/src/my_launch_pkg': PYTHONPATH=/media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/build/my_launch_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/install/my_launch_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_launch_pkg build --build-base /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/build/my_launch_pkg/build install --record /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/build/my_launch_pkg/install.log --single-version-externally-managed install_data
+[1.060s] running egg_info
+[1.061s] writing ../../build/my_launch_pkg/my_launch_pkg.egg-info/PKG-INFO
+[1.061s] writing dependency_links to ../../build/my_launch_pkg/my_launch_pkg.egg-info/dependency_links.txt
+[1.061s] writing entry points to ../../build/my_launch_pkg/my_launch_pkg.egg-info/entry_points.txt
+[1.061s] writing requirements to ../../build/my_launch_pkg/my_launch_pkg.egg-info/requires.txt
+[1.062s] writing top-level names to ../../build/my_launch_pkg/my_launch_pkg.egg-info/top_level.txt
+[1.064s] reading manifest file '../../build/my_launch_pkg/my_launch_pkg.egg-info/SOURCES.txt'
+[1.065s] writing manifest file '../../build/my_launch_pkg/my_launch_pkg.egg-info/SOURCES.txt'
+[1.065s] running build
+[1.065s] running build_py
+[1.065s] copying my_launch_pkg/follower.py -> /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/build/my_launch_pkg/build/lib/my_launch_pkg
+[1.066s] running install
+[1.066s] running install_lib
+[1.067s] copying /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/build/my_launch_pkg/build/lib/my_launch_pkg/follower.py -> /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/install/my_launch_pkg/lib/python3.10/site-packages/my_launch_pkg
+[1.068s] byte-compiling /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/install/my_launch_pkg/lib/python3.10/site-packages/my_launch_pkg/follower.py to follower.cpython-310.pyc
+[1.069s] running install_data
+[1.069s] copying launch/turtlesim_launch.py -> /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/install/my_launch_pkg/share/my_launch_pkg/launch
+[1.069s] running install_egg_info
+[1.074s] removing '/media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/install/my_launch_pkg/lib/python3.10/site-packages/my_launch_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[1.075s] Copying ../../build/my_launch_pkg/my_launch_pkg.egg-info to /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/install/my_launch_pkg/lib/python3.10/site-packages/my_launch_pkg-0.0.0-py3.10.egg-info
+[1.076s] running install_scripts
+[1.102s] Installing follower script to /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/install/my_launch_pkg/lib/my_launch_pkg
+[1.103s] writing list of installed files to '/media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/build/my_launch_pkg/install.log'
+[1.144s] Invoked command in '/media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/src/my_launch_pkg' returned '0': PYTHONPATH=/media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/build/my_launch_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/install/my_launch_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_launch_pkg build --build-base /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/build/my_launch_pkg/build install --record /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/build/my_launch_pkg/install.log --single-version-externally-managed install_data

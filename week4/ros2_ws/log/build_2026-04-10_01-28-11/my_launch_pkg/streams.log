@@ -1,0 +1,34 @@
+[0.743s] Invoking command in '/media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/src/my_launch_pkg': PYTHONPATH=/media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/build/my_launch_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/install/my_launch_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_launch_pkg build --build-base /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/build/my_launch_pkg/build install --record /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/build/my_launch_pkg/install.log --single-version-externally-managed install_data
+[1.006s] running egg_info
+[1.007s] creating ../../build/my_launch_pkg/my_launch_pkg.egg-info
+[1.007s] writing ../../build/my_launch_pkg/my_launch_pkg.egg-info/PKG-INFO
+[1.007s] writing dependency_links to ../../build/my_launch_pkg/my_launch_pkg.egg-info/dependency_links.txt
+[1.008s] writing entry points to ../../build/my_launch_pkg/my_launch_pkg.egg-info/entry_points.txt
+[1.008s] writing requirements to ../../build/my_launch_pkg/my_launch_pkg.egg-info/requires.txt
+[1.008s] writing top-level names to ../../build/my_launch_pkg/my_launch_pkg.egg-info/top_level.txt
+[1.008s] writing manifest file '../../build/my_launch_pkg/my_launch_pkg.egg-info/SOURCES.txt'
+[1.010s] reading manifest file '../../build/my_launch_pkg/my_launch_pkg.egg-info/SOURCES.txt'
+[1.011s] writing manifest file '../../build/my_launch_pkg/my_launch_pkg.egg-info/SOURCES.txt'
+[1.012s] running build
+[1.012s] running build_py
+[1.012s] creating /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/build/my_launch_pkg/build
+[1.012s] creating /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/build/my_launch_pkg/build/lib
+[1.012s] creating /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/build/my_launch_pkg/build/lib/my_launch_pkg
+[1.012s] copying my_launch_pkg/__init__.py -> /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/build/my_launch_pkg/build/lib/my_launch_pkg
+[1.013s] running install
+[1.013s] running install_lib
+[1.013s] creating /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/install/my_launch_pkg/lib/python3.10/site-packages/my_launch_pkg
+[1.014s] copying /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/build/my_launch_pkg/build/lib/my_launch_pkg/__init__.py -> /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/install/my_launch_pkg/lib/python3.10/site-packages/my_launch_pkg
+[1.014s] byte-compiling /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/install/my_launch_pkg/lib/python3.10/site-packages/my_launch_pkg/__init__.py to __init__.cpython-310.pyc
+[1.014s] running install_data
+[1.015s] creating /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/install/my_launch_pkg/share/ament_index
+[1.015s] creating /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/install/my_launch_pkg/share/ament_index/resource_index
+[1.015s] creating /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/install/my_launch_pkg/share/ament_index/resource_index/packages
+[1.015s] copying resource/my_launch_pkg -> /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/install/my_launch_pkg/share/ament_index/resource_index/packages
+[1.015s] copying package.xml -> /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/install/my_launch_pkg/share/my_launch_pkg
+[1.015s] creating /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/install/my_launch_pkg/share/my_launch_pkg/launch
+[1.015s] running install_egg_info
+[1.018s] Copying ../../build/my_launch_pkg/my_launch_pkg.egg-info to /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/install/my_launch_pkg/lib/python3.10/site-packages/my_launch_pkg-0.0.0-py3.10.egg-info
+[1.019s] running install_scripts
+[1.045s] writing list of installed files to '/media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/build/my_launch_pkg/install.log'
+[1.080s] Invoked command in '/media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/src/my_launch_pkg' returned '0': PYTHONPATH=/media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/build/my_launch_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/install/my_launch_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_launch_pkg build --build-base /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/build/my_launch_pkg/build install --record /media/haider/Storage/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week4/ros2_ws/build/my_launch_pkg/install.log --single-version-externally-managed install_data
