@@ -10,6 +10,12 @@ def generate_launch_description():
         ),
         Node(
             package='turtlesim',
+            executable='turtlesim_node',
+            name='sim2',
+            namespace='sim2'
+        ),
+        Node(
+            package='turtlesim',
             executable='turtle_teleop_key',
             name='teleop'
         )
