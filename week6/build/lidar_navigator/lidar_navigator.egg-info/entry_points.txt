@@ -1,0 +1,3 @@
+[console_scripts]
+lidar_navigator = lidar_navigator.lidar_navigator:main
+

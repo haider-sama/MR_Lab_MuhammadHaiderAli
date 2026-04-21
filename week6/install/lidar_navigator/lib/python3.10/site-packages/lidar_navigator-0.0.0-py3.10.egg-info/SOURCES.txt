@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../build/lidar_navigator/lidar_navigator.egg-info/PKG-INFO
+../build/lidar_navigator/lidar_navigator.egg-info/SOURCES.txt
+../build/lidar_navigator/lidar_navigator.egg-info/dependency_links.txt
+../build/lidar_navigator/lidar_navigator.egg-info/entry_points.txt
+../build/lidar_navigator/lidar_navigator.egg-info/requires.txt
+../build/lidar_navigator/lidar_navigator.egg-info/top_level.txt
+../build/lidar_navigator/lidar_navigator.egg-info/zip-safe
+lidar_navigator/__init__.py
+lidar_navigator/lidar_navigator.py
+resource/lidar_navigator
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

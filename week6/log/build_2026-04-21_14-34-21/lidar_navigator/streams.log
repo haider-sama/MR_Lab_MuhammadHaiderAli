@@ -1,0 +1,24 @@
+[0.938s] Invoking command in '/media/haider/Drive1/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week6/lidar_navigator': PYTHONPATH=/media/haider/Drive1/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week6/build/lidar_navigator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/haider/Drive1/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week6/install/lidar_navigator/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/lidar_navigator build --build-base /media/haider/Drive1/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week6/build/lidar_navigator/build install --record /media/haider/Drive1/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week6/build/lidar_navigator/install.log --single-version-externally-managed install_data
+[1.275s] running egg_info
+[1.276s] writing ../build/lidar_navigator/lidar_navigator.egg-info/PKG-INFO
+[1.277s] writing dependency_links to ../build/lidar_navigator/lidar_navigator.egg-info/dependency_links.txt
+[1.277s] writing entry points to ../build/lidar_navigator/lidar_navigator.egg-info/entry_points.txt
+[1.277s] writing requirements to ../build/lidar_navigator/lidar_navigator.egg-info/requires.txt
+[1.277s] writing top-level names to ../build/lidar_navigator/lidar_navigator.egg-info/top_level.txt
+[1.280s] reading manifest file '../build/lidar_navigator/lidar_navigator.egg-info/SOURCES.txt'
+[1.281s] writing manifest file '../build/lidar_navigator/lidar_navigator.egg-info/SOURCES.txt'
+[1.281s] running build
+[1.281s] running build_py
+[1.282s] copying lidar_navigator/lidar_navigator.py -> /media/haider/Drive1/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week6/build/lidar_navigator/build/lib/lidar_navigator
+[1.282s] running install
+[1.282s] running install_lib
+[1.283s] copying /media/haider/Drive1/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week6/build/lidar_navigator/build/lib/lidar_navigator/lidar_navigator.py -> /media/haider/Drive1/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week6/install/lidar_navigator/lib/python3.10/site-packages/lidar_navigator
+[1.284s] byte-compiling /media/haider/Drive1/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week6/install/lidar_navigator/lib/python3.10/site-packages/lidar_navigator/lidar_navigator.py to lidar_navigator.cpython-310.pyc
+[1.285s] running install_data
+[1.285s] running install_egg_info
+[1.288s] removing '/media/haider/Drive1/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week6/install/lidar_navigator/lib/python3.10/site-packages/lidar_navigator-0.0.0-py3.10.egg-info' (and everything under it)
+[1.288s] Copying ../build/lidar_navigator/lidar_navigator.egg-info to /media/haider/Drive1/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week6/install/lidar_navigator/lib/python3.10/site-packages/lidar_navigator-0.0.0-py3.10.egg-info
+[1.289s] running install_scripts
+[1.316s] Installing lidar_navigator script to /media/haider/Drive1/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week6/install/lidar_navigator/lib/lidar_navigator
+[1.316s] writing list of installed files to '/media/haider/Drive1/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week6/build/lidar_navigator/install.log'
+[1.364s] Invoked command in '/media/haider/Drive1/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week6/lidar_navigator' returned '0': PYTHONPATH=/media/haider/Drive1/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week6/build/lidar_navigator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/haider/Drive1/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week6/install/lidar_navigator/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/lidar_navigator build --build-base /media/haider/Drive1/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week6/build/lidar_navigator/build install --record /media/haider/Drive1/University Work/semester_08/mobile_robotics/MR_Lab_MuhammadHaiderAli/week6/build/lidar_navigator/install.log --single-version-externally-managed install_data
